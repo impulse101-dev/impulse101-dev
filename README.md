@@ -2,7 +2,7 @@
 
 ## Presentación
 Mi nombre es Adrián y este es el GitHub en el cuál guardo la gran parte de mis proyectos 
-(por supuesto en repositorios privados para que no esté cualquiera viendo las pulmonías que hago).
+(por supuesto en repositorios privados).
 
 ---
 
